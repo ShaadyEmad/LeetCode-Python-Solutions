@@ -1,3 +1,4 @@
+# complexity : O(n)
 class Solution(object):
     def maxSubArray(self, arr):
         current_sum = arr[0]
